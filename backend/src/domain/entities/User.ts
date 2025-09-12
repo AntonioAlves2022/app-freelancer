@@ -17,11 +17,8 @@ export class User{
     }
   }
 
-<<<<<<< HEAD
+
   get id() {return this.props.id!}
-=======
-  get id() {return this.props.id}
->>>>>>> bfb36d6336a311847a24252f66b5aec70c86a1ae
   get name() {return this.props.name}
   get email() {return this.props.email}
   get password() {return this.props.password}
